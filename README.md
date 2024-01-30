@@ -74,7 +74,7 @@ go-quai can be used by other processes as a gateway into the Quai network via JS
 | **Light Nodes**   | Slice Light Node          | Multi-Slice Light Node   | Global Light Node   | 
 | **Archive Node**  | Slice Archive Node        | Multi-Slice Archive Node | Global Archive Node |
 
-### test
+### test detail
 
 Runs a battery of tests on the repository to ensure it builds and functions correctly.
 
